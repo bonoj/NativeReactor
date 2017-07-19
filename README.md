@@ -1,2 +1,2 @@
 # NativeReactor
-A multiplatform deployable React Native application skeleton.
+A deployable React Native application skeleton.
