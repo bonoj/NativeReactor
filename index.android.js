@@ -23,7 +23,8 @@ export default class NativeReactor extends Component {
           To get started, edit index.android.js
         </Text>
         <Text style={styles.instructions}>
-          Java \< JavaScript
+          Does it ever refresh the bundle?{'\n'}
+          A test for the next reboot.
         </Text>
       </View>
     );
